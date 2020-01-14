@@ -1,0 +1,25 @@
+* body {
+    margin: 0px;
+    background-color: lightgrey;
+}
+
+.header {
+    
+    background-color:  grey;
+    height: 100px;
+}
+
+.middle {
+    margin: auto;
+    background-color: white;
+    width: 700px;
+    height: 540px;
+}
+
+.footer {
+    margin: auto;
+    background-color: black;
+    height: 50px;
+    width: 700px;
+}
+
