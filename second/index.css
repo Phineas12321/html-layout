@@ -1,0 +1,60 @@
+body {
+    margin: 0px;
+    padding: 10px;
+}
+.head {
+    margin: auto;
+    border: solid;
+    width: 96vw;
+    padding: 5px;
+}
+
+.little-rectangle {
+    display:inline-block;
+    height: 110px;
+    width: 30px;
+    background-color: purple;
+}
+
+.big-rectangle {
+    display: inline-block;
+    height: 180px;
+    width: 350px;
+    background-color: green;
+}
+
+.circle {
+    display: inline-block;
+    height: 180px;
+    width: 180px;
+    background-color: lightblue;
+    border-radius: 50%;
+}
+
+.middle {
+    margin: 20px auto;
+    width: 92vw;
+    border: dotted;
+    padding: 20px;
+}
+
+.middle-rectangle {
+    margin: auto;
+    width: 800px;
+    height: 120px;
+    background-color: blanchedalmond;
+    box-shadow: 8px 8px 8px black;
+}
+
+.foot {
+    margin: auto;
+    width: 50vw;
+    height: 200px;
+    border: solid 1px grey;
+    box-shadow:2px 2px 2px grey;
+}
+
+.text {
+    text-align: center;
+    color: blue;
+}
